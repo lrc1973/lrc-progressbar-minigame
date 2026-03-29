@@ -10,3 +10,7 @@ Exports: StartProgress · StartTimingMinigame · cancelCurrentProgressBar · ini
 Configure defaults in config.lua. All export params are optional and fall back to config values.
 
 Free to use. Do not redistribute as your own.
+
+
+https://github.com/user-attachments/assets/1de49c43-d9ea-4a75-a371-a20deb878029
+
