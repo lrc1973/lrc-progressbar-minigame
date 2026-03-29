@@ -1,5 +1,5 @@
 # lrc-progressbar-minigame
-A standalone RedM progress bar resource. 
+A standalone RedM progress bar resource you can use across your resources.
 
 Includes a standard progress bar and a timing minigame (press E in the zone).
 
